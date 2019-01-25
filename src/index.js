@@ -1,3 +1,1 @@
-console.log('hello' +
-  'demo.' +
-  'wa!')
+console.log('hello' + 'demo.' + 'wa!')
